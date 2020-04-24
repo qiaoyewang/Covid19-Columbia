@@ -1,2 +1,1 @@
-# Covid19-Columbia
-# Track 2
+# Covid19 - Columbia - Track 2
